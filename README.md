@@ -1,10 +1,10 @@
 <h3 align="center">Hi there 👋</h3>
 
-<p align="center">
+<h4 align="center">
   I'm third-year student in computer engineering at Chulalongkorn University
   <br>
   Experienced and interest in full stack web development
-</p>
+</h4>
 
 - 🔭 I’m currently working on Website Development
 - 🌱 I’m currently learning Golang and Blender

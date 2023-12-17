@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Website Development
 - 🌱 I’m currently learning Golang and Blender
-- 📫 How to reach me: sorawit12535@gmail.com
+- 📫 How to reach me: sorawit.kamphoi@gmail.com
 
 <!--
 **creampiney/creampiney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

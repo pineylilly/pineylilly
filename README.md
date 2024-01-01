@@ -6,8 +6,8 @@
   Experienced and interest in full stack web development
 </h4>
 
-- 🔭 I’m currently working on Website Development
-- 🌱 I’m currently learning Golang and Blender
+- 🔭 I’m currently working on Game Development with React and Phaser
+- 🌱 I’m currently learning Golang, Phaser, and Blender
 - 📫 How to reach me: sorawit.kamphoi@gmail.com
 
 <!--

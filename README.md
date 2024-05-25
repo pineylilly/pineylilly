@@ -6,8 +6,8 @@
   Experienced and interest in full stack web development
 </h4>
 
-- 🔭 I’m currently working on Game Development with React and Phaser
-- 🌱 I’m currently learning Golang, Phaser, and Blender
+- 🔭 I’m currently working on Full Stack Development (React & Node.js & etc)
+- 🌱 I’m currently learning Golang and Flutter
 - 📫 How to reach me: sorawit.kamphoi@gmail.com
 
 <!--

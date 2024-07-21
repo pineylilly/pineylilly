@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋</h3>
 
 <h4 align="center">
-  I'm third-year student in computer engineering at Chulalongkorn University
+  I'm fourth-year student in computer engineering at Chulalongkorn University
   <br>
   Experienced and interest in full stack web development
 </h4>

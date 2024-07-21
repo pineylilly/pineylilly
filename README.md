@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">📈 GitHub Stats</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=creampiney&show_icons=true&locale=en&layout=compact&size_weight=0.4&count_weight=0.6" alt="creampiney" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pineylilly&show_icons=true&locale=en&layout=compact&size_weight=0.4&count_weight=0.6" alt="creampiney" /></p>

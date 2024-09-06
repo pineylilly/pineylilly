@@ -6,8 +6,8 @@
   Experienced and interest in full stack web development
 </h4>
 
-- 🔭 I’m currently working on Full Stack Development (React & Node.js & etc)
-- 🌱 I’m currently learning Golang and Flutter
+- 🔭 I’m currently working on Full Stack Development, Machine Learning, and Image Processing
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: sorawit.kamphoi@gmail.com
 
 <!--
